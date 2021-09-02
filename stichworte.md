@@ -7,16 +7,22 @@
 
 # Zeitplanung
 
-- parallel zu TFD-Aktivitäten
-- Grobziel für Ende: August 2022
+- parallel zu TFD-Aktivitäten (enden Februar 2022)
+- Grobziel für Ende: Dezember 2022 / Januar 2023
 
-# 2021
+# Ab Februar 2022
 
-- Stand der Technik ermitteln: Was wird unter einem Knowledge-Graph verstanden? Welche Veröffentlichungen etc. gibt es schon?
+- Stand der Technik ermitteln:
+   - Was wird unter einem Knowledge-Graph verstanden?
+   - Welche Veröffentlichungen etc. gibt es schon?
 - Traning mit Tools
-- Gegen Ende: Aufgabenstellung? Gliederung? 
 
-# 2022
+# Bis April 2022
+
+- Aufgabenstellung
+- Gliederung
+
+# Ab Mai 2022
 
 - Implementierung
 - Zusammenschreiben
